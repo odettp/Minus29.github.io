@@ -1,0 +1,116 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: 'Raleway', sans-serif;
+    background-color: #000;
+    color: #fff;
+}
+
+header {
+    display: block;
+}
+
+header h1 {
+    width: 100%;
+    height: 73px;
+    text-align: center;
+    font-size: 48px;
+    font-weight: 500;
+    padding-top: 20px;
+}
+
+.iguanamadre {
+    width: 100%;
+}
+
+.desc-section {
+    height: 348px;
+}
+
+.texto-iguana {
+    display: inline-block;
+    padding-left: 224px;
+    padding-top: 72px;
+    width: 33%;
+    margin-right: 16px;
+    font-weight: 300;
+    line-height: 20px;
+}
+
+.iguana1 {
+    float: right;
+    height: 237px;
+    width: 399px;
+    padding-right: 234px;
+    padding-top: 40px;
+    margin-left: 16px;
+    opacity: 0.7;
+}
+
+.text1{
+    margin-bottom: 16px;
+    text-align: left;
+}
+
+.text2{
+    margin-top: 16px;
+    text-align: left;
+}
+
+.icon-section{
+    background-color: #1e1a13;
+    text-align: center;
+    height: 300px;
+}
+
+.icon-section h2{
+    padding-bottom: 30px;
+    padding-top: 32px;
+    font-size: 40px;
+    font-weight: 500;
+}
+
+.icon-section .icons {
+    width: 200px;
+    display: inline-block;
+}
+
+.icon-section i{
+    padding-bottom: 50px;
+}
+
+.icon-section p{
+    font-weight: 300;
+    font-size: 24px;
+}
+
+section{
+    height: 348px;
+    line-height: 348px;
+    text-align: center;
+}
+
+section .iguanas{
+    display: inline-block;
+    margin: 8px;
+    height: 202px;
+    width: 316px;
+    vertical-align: middle;
+}
+
+footer{
+    display: block;
+    background-color: #1e1a13;
+    height: 102px;
+    line-height: 102px;
+}
+
+footer p{
+    text-align: center;
+    font-size: 20px;
+    font-weight: 300;
+
+}

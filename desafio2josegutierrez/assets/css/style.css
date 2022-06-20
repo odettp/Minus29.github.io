@@ -1,0 +1,89 @@
+* {
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url(../imgs/fondos-de-pantalla-gaming.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+
+.header {
+    background-image: url("../imgs/602223.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: solid orange 2px;
+    padding: 50px;
+    text-align: right;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+ul{
+    list-style: none;
+  }
+  #menu li>a{
+    background-color: grey;
+    color: white;
+    padding: 10px;
+    display: block;
+    text-decoration: none;
+    min-width: 100px;
+  }
+  #menu li>a:hover{
+    color: black;
+    background-color: #eaeaea;
+  }
+  #menu>li{
+    float: left;
+    text-align:center;
+  }
+.main h2,
+p {
+    text-align: center;
+}
+
+.main img {
+    width: 200px;
+}
+
+.main p {
+    text-align: justify;
+}
+
+.main table {
+    padding: 10px;
+    width: 50%;
+    margin: auto;
+    position: center;
+}
+
+.main td {
+    padding: 20px;
+    border: orange solid 1px;
+}
+
+.main button {
+    border: solid 1px orange;
+}
+
+
+.footer {
+    background-color: rgb(255, 162, 0);
+    background-size: cover;
+    text-align: center;
+    padding: 30px;
+    height: 100%;
+    opacity: 0.6;
+}
+
+.footer p{
+    color: white;
+    opacity: none;
+}
